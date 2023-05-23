@@ -1,0 +1,15 @@
+artifacts
+demo
+env
+venv
+logs
+log
+infrastructure
+docs
+LICENSE
+README.md
+notebooks
+scripts
+test
+train 
+dataset.zip
